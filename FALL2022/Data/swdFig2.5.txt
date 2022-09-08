@@ -1,0 +1,7 @@
+	A	B	C
+Category 1 	0.15	0.22	0.42
+Category 2	0.40	0.36	0.20
+Category 3	0.35	0.17	0.34
+Category 4	0.30	0.29	0.26
+Category 5	0.55	0.30	0.58
+Category 6	0.11	0.25	0.49
